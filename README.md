@@ -1,5 +1,7 @@
 # Basic K-Means
 
+![Scatter](images/normal-scatter.png)
+
 This is the complete code for our post [Basic K-Means implementation](https://mlpills.dev/machine-learning/basic-k-means-implementation). We provide it as a jupyter notebook ready to be used.
 
 ### Requirements
